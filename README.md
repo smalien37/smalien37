@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi 👋! Myself SOUMYAJIT & I am a SHARK BAIT 🦈</h2>
+<div> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Soumyajit+;I+am+a+Software+Engineer&color=ff960d)](https://git.io/typing-svg)
+
+</div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
