@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center" display="flex" gap="3pxs">
+<div align="center" display="flex" gap="3px">
   <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
   <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
   <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
@@ -93,8 +93,12 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<div align="center" display="flex" gap="3px">
+  <img  height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
+  <img  height="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
+  <img  height="150" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"  />  
+</div>
 
-<img align="left" height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
 
 ###
 
