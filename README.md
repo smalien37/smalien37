@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<div align="center" display="flex" gap="3px">
+<div align="center" display="flex" gap="3px" text-align="justify">
   <img  height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
   <img  height="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
   <img  height="150" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"  />  
