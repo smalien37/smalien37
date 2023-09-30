@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <!-- ![Snake animation](https://github.com/smalien37/smalien37/blob/output/github-contribution-grid-snake.svg) -->
-  <img src="https://www.genious.blog/wp-content/uploads/2021/06/pacman-gif.gif)https://www.genious.blog/wp-content/uploads/2021/06/pacman-gif.gif" />
+  <img src="https://media.tenor.com/6XChiRuYjo0AAAAd/kitboga-kitman.gif" />
 
 
 ###
