@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi 👋! Myself SOUMYAJIT & I am a SHARK BAIT 🦈</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=76F722&center=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=300&pause=1000&color=76F722&center=true&width=500&lines=Hey+There+%F0%9F%96%90%F0%9F%8F%BB;Welcome+to+Soumyajit's+Profile+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+free+to+FORK+%E2%AB%9C" alt="Typing SVG" /></a>
 
 ###
 
