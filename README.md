@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="center" display="flex" gap="3pxs">
+  <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
+  <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
   <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
 </div>
 
@@ -85,14 +87,14 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smalien37&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smalien37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
 
 ###
 
