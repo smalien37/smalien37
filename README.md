@@ -115,7 +115,8 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <!-- ![Snake animation](https://github.com/smalien37/smalien37/blob/output/github-contribution-grid-snake.svg) -->
-  <img align = "center" src="https://coolinventor.com/wiki/images/0/03/Reinforcement-learning-pacman.gif" />
-
+<div align="center">
+  <img src="https://coolinventor.com/wiki/images/0/03/Reinforcement-learning-pacman.gif" />
+</div>
 
 ###
