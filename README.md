@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center" display="flex" gap="3px">
-  <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
-  <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
-  <img height="20" src="https://media.tenor.com/qdO5tAWqwIAAAAAM/divider-discord.gif"  />
+  <img height="20" src="line.gif"  />
+  <img height="20" src="line.gif"  />
+  <img height="20" src="line.gif"  />
 </div>
 
 ###
