@@ -107,9 +107,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center" display="flex" gap="3px" text-align="justify">
-  <img  height="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
-  <img  height="150" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"  />
-  <img  height="150" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"  />  
+  <img  height="150" src="comp.gif"  />
+  <img  height="150" src="type.gif"  />
+  <img  height="150" src="server.gif"  />  
 </div>
 
 
